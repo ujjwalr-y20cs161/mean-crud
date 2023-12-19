@@ -1,0 +1,23 @@
+{
+  "name": "mean-crud",
+  "version": "1.0.0",
+  "description": "CRUD operation project on the MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujjwalr-y20cs161/mean-crud.git"
+  },
+  "keywords": [
+    "MEAN",
+    "CRUD"
+  ],
+  "author": "UjjwalRSanagapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujjwalr-y20cs161/mean-crud/issues"
+  },
+  "homepage": "https://github.com/ujjwalr-y20cs161/mean-crud#readme"
+}
